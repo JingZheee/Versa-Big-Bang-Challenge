@@ -33,3 +33,22 @@ The script generates a JSON file named "output.json" containing the results.
 
 4. **Check the Output**:
     After running the script, you will find the `output.json` file in the project directory.
+
+## Example Output
+
+The `output.json` file included in the repository is an example of the expected output. Running the script will regenerate this file.
+
+```json
+[
+    "1",
+    "2",
+    "BIG",
+    "4",
+    "BANG",
+    "BIG",
+    "7",
+    "8",
+    "BIG",
+    "BANG",
+    ...
+]
